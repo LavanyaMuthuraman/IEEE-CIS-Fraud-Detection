@@ -6,9 +6,6 @@ In day today's electronic world ,almost everyone make a transaction either in sh
 
 Decided to explore this dataset on our own and build models to detect online fraud. Our features and models are built keeping in mind if it is feasible to create a “product” out of our solution. 
 
-In the jupyter notebook file, Initial Diagnostics, Dealing with Imbalanced Data and preparing it for a Random Forest Model training and Hyper-Parameter Tuning in models to classifying the test set.
+In the jupyter notebook file, Initial Diagnostics, Dealing with Imbalanced Data and preparing it for a Random Forest Model training and  Hyper-Parameter Tuning in models to classifying the data.
 
-
-<img src="![blog_pictures2Ffraud-analytics-protect-banking-sector](https://user-images.githubusercontent.com/109660074/227017826-b05de777-b7ee-43da-9f78-3d003ccb6364.jpg)
-" width="500" height="400">
-
+![image_share_1679515187325](https://user-images.githubusercontent.com/109660074/227025886-eeb6b245-ca4c-444e-95e3-b95765a8dcde.jpg)
